@@ -17,7 +17,7 @@ def filter_data(df, mes, selected_categories):
     return df_filtered
 
 # Título do Dashboard
-st.title("Controle financeiro")
+st.title("Controle financeiroo")
 
 # Filtros de data
 st.sidebar.header("Filtros")
